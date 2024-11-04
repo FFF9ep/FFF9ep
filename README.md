@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FFF9ep](https://github.com/FFF9ep)
 
-- 📝 I regularly write articles on [https://fandi-ardyan-porto.netlify.app/]([https://fandi-ardyan-porto.netlify.app/](https://fandi-ardyan.vercel.app/))
+- 📝 I regularly write articles on [https://fandi-ardyan-porto.netlify.app/]([https://fandi-ardyan-porto.netlify.app/](https://fandi-ardyan.vercel.app/)
 
 - 💬 Ask me about **Javascript, Python, etc**
 
